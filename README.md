@@ -1,0 +1,1 @@
+Task Maxy Day-1 for build Restaurant Page with HTML, CSS, and Basic JS.
